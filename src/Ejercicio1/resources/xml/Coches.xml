@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<coches>
+    <coche>
+        <marca>Seat</marca>
+        <modelo>Ibiza</modelo>
+        <color>rojo</color>
+        <matriculacion>2019</matriculacion>
+    </coche>
+    <coche>
+        <marca>Toyota</marca>
+        <modelo>Corola</modelo>
+        <color>rojo</color>
+        <matriculacion>2010</matriculacion>
+    </coche>
+</coches>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<tarjetadevisita>
+    <apellido>LAVALLE</apellido>
+    <nombre>Christophe</nombre>
+    <empresa/>
+    <puesto>Doctor</puesto>
+    <direccion>
+        <numero>19</numero>
+        <calle>Avda de Florida</calle>
+        <codigopostal>28008</codigopostal>
+        <ciudad>MADRID</ciudad>
+    </direccion>
+    <numdetelefono>914357265</numdetelefono>
+    <numdemovil/>
+    <numdefax/>
+    <email/>
+</tarjetadevisita>
